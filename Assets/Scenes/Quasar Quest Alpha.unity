@@ -12747,14 +12747,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 534035633}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a5944962d748e2c4f905f13fc24e6da9, type: 3}
+  m_Script: {fileID: 11500000, guid: d6e482f72d089a0439a81adefac2b7fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 40
-  jumpForce: 5
+  speed: 50
+  jumpForce: 10
   groundLayer:
     serializedVersion: 2
-    m_Bits: 83
+    m_Bits: 0
 --- !u!58 &534035635
 CircleCollider2D:
   m_ObjectHideFlags: 0
